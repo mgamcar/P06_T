@@ -1138,6 +1138,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Casa
       objectReference: {fileID: 0}
+    - target: {fileID: 7330401379233989201, guid: a1a54e843a02d4719a5d5c7863cce0fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7f4c7cb79772642b9af62a2dccf26f6e, type: 2}
     - target: {fileID: 7574460748111862933, guid: a1a54e843a02d4719a5d5c7863cce0fb, type: 3}
       propertyPath: m_Mesh
       value: 
