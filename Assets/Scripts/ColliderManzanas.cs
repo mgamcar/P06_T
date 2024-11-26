@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class ColliderManzanas : MonoBehaviour
 {
-    int contador = 3;
+    int contador = 10;
 
     public GameObject itemFinal;
     public GameObject PortonCerrado;
